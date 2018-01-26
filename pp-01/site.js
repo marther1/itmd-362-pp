@@ -7,4 +7,7 @@ function check(){
   else if (c!=10) {
     alert('Please enter a 10 digit phone number');
   }
+  else {
+    alert('Your form has been successfully submitted');
+  }
 }

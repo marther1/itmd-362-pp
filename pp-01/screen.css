@@ -22,10 +22,16 @@ form {
 }
 input {
   border-color: black;
+  
 }
 ul li {
   padding-bottom: 1.125em;
 }
 #submit {
   width: 10%;
+}
+#error,
+#mistake {
+  list-style-type: none;
+  color: red;
 }

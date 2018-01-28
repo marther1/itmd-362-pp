@@ -1,12 +1,14 @@
-document.getElementById('submit').addEventListener('click', function(){
+document.getElementById('submit').addEventListener('click', function(e){
   var c = document.getElementById('phone').value;
   if (isNaN(c)){
-    $('#form-list').append('<li>Please enter numbers!</li>');
+    $('#form-list').append('<li id="error">Please enter numbers!</li>');
   }
   else if (c.length!==10) {
-    $('#form-list').append('<li>Please enter a 10 digit number</li>');
+    $('#error').replaceWith('<li id="mistake">Please enter a 10 digit number</li>');
   }
   else {
-    $('#form-list').append('<li>Form has been successfully submited</li>');
+    $('#error').replaceWith('<li>Form has been successfully submited!</li>');
+    $('#mistake').replaceWith('<li>Form has been successfully submited!</li>');
   }
+  e.preventDefault();
 }, false);

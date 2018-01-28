@@ -1,12 +1,12 @@
 document.getElementById('submit').addEventListener('click', function(){
   var c = document.getElementById('phone').value;
   if (isNaN(c)){
-    console.log('Please enter numbers!');
+    $('#form-list').append('<li>Please enter numbers!</li>');
   }
   else if (c.length!==10) {
-    console.log('Please enter a 10 digit phone number');
+    $('#form-list').append('<li>Please enter a 10 digit number</li>');
   }
   else {
-    console.log('Your form has been successfully submitted');
+    $('#form-list').append('<li>Form has been successfully submited</li>');
   }
 }, false);

@@ -4,7 +4,7 @@ function check(){
   if (isNaN(c)){
     alert('Please enter numbers!');
   }
-  else if (c!=10) {
+  else if (c.length<10) {
     alert('Please enter a 10 digit phone number');
   }
   else {

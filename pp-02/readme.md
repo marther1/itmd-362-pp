@@ -21,7 +21,7 @@ survey, which you can take or just skip. Finally, create a new repository within
 Initializing it on GitHub with a `README.md` file is fine, unless you’ve already begun a repository
 on a group member’s computer. **That will be your shared repository for Project 2.**
 
-3. List the names of your group members here:
+3. List the names of your group members here: Mohammed Wasfi and Mufid Bhavnagri
 
 4. Copy and paste the URL for your group’s GitHub organization here:
 

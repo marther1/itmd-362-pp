@@ -25,7 +25,7 @@ on a group member’s computer. **That will be your shared repository for Projec
 
 4. Copy and paste the URL for your group’s GitHub organization here: https://github.com/The-M-Team
 
-5. Copy and paste the URL for your group’s shared repository here:
+5. Copy and paste the URL for your group’s shared repository here: https://github.com/The-M-Team/itmd362-project2
 
 6. Each member of the group should fork the repository (including the group member whose account
 was used to create the GitHub organization for your project).

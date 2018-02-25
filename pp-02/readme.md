@@ -23,7 +23,7 @@ on a group member’s computer. **That will be your shared repository for Projec
 
 3. List the names of your group members here: Mohammed Wasfi and Mufid Bhavnagri
 
-4. Copy and paste the URL for your group’s GitHub organization here:
+4. Copy and paste the URL for your group’s GitHub organization here: https://github.com/The-M-Team
 
 5. Copy and paste the URL for your group’s shared repository here:
 

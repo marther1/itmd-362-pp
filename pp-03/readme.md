@@ -21,8 +21,8 @@ Your Rationale: I chose the green, lime green and yellow as they are the colors 
 
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=31T121k-wzVOmc8o+kt9PrFDsr+kDhpQTO9a8Rb9hGfKT3eMkxzsLuxiVj6A4hyeU+zeC
+Your Rationale: I chose the bright colors red, yellow, and green as they're used to them. Kids see the bright colors everyday in their lives and can't tell much difference between the shades of the colors, as most of them only know/notice very few colors.
 
 4. A custom color palette for advertising a course on cybersecurity
 

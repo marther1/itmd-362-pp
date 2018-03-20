@@ -26,5 +26,5 @@ Your Rationale: I chose the bright colors red, yellow, and green as they're used
 
 4. A custom color palette for advertising a course on cybersecurity
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=c4H3M135D1kL600SR00K+00+900Wn00k++mW+O46PE7deSaJ+sfrk0V++TO9a8DnXhGfKT3eMk++kx+Ldm+L-ZWDiLUS8a
+Your Rationale: The 4 colors that come to mind when I see the word cybersecurity are: dark red, dark blue, white and black. I see white as the background color with black text and dark red headings, and dark blue color used in the images and logos.   

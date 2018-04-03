@@ -30,8 +30,8 @@ Small commits to your Production Problems repository that include:
 * HCI Guidline One (URL): https://developer.apple.com/ios/human-interface-guidelines/user-interaction/authentication/
 * How you implemented it in your sketch: I delayed the login/sign-in as long as possible. The user are first allowed to browse the app and are only required to login when necessary (for ex. viewing iit calendar doesn't require login but Academics requires the user to sign in to view their personal data).
 
-* HCI Guidline Two (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Two (URL): https://developer.apple.com/ios/human-interface-guidelines/overview/themes/
+* How you implemented it in your sketch: By using Consistency design principles the user is greeted with a familiar looking login screen, where the screen has known icons, standard text styles and most importantly, the app contains feature and behaviors in the way people expect.
 
 * HCI Guidline Three (URL):
 * How you implemented it in your sketch:

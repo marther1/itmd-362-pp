@@ -27,11 +27,11 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL): https://developer.apple.com/ios/human-interface-guidelines/user-interaction/authentication/
+* HCI Guideline One (URL): https://developer.apple.com/ios/human-interface-guidelines/user-interaction/authentication/
 * How you implemented it in your sketch: I delayed the login/sign-in as long as possible. The user are first allowed to browse the app and are only required to login when necessary (for ex. viewing iit calendar doesn't require login but Academics requires the user to sign in to view their personal data).
 
-* HCI Guidline Two (URL): https://developer.apple.com/ios/human-interface-guidelines/overview/themes/
+* HCI Guideline Two (URL): https://developer.apple.com/ios/human-interface-guidelines/overview/themes/
 * How you implemented it in your sketch: By using Consistency design principles the user is greeted with a familiar looking login screen, where the screen has known icons, standard text styles and most importantly, the app contains feature and behaviors in the way people expect.
 
-* HCI Guidline Three (URL): https://developer.apple.com/ios/human-interface-guidelines/bars/search-bars/
-* How you implemented it in your sketch: I implemented a search bar because if the user can't find what they are looking for they can just search it by typing inside the search bar. 
+* HCI Guideline Three (URL): https://developer.apple.com/ios/human-interface-guidelines/bars/search-bars/
+* How you implemented it in your sketch: I implemented a search bar because if the user can't find what they are looking for they can just search it by typing inside the search bar.

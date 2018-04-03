@@ -33,5 +33,5 @@ Small commits to your Production Problems repository that include:
 * HCI Guidline Two (URL): https://developer.apple.com/ios/human-interface-guidelines/overview/themes/
 * How you implemented it in your sketch: By using Consistency design principles the user is greeted with a familiar looking login screen, where the screen has known icons, standard text styles and most importantly, the app contains feature and behaviors in the way people expect.
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Three (URL): https://developer.apple.com/ios/human-interface-guidelines/bars/search-bars/
+* How you implemented it in your sketch: I implemented a search bar because if the user can't find what they are looking for they can just search it by typing inside the search bar. 

@@ -27,8 +27,8 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch:
+* HCI Guidline One (URL): https://developer.apple.com/ios/human-interface-guidelines/user-interaction/authentication/
+* How you implemented it in your sketch: I delayed the login/sign-in as long as possible. The user are first allowed to browse the app and are only required to login when necessary (for ex. viewing iit calendar doesn't require login but Academics requires the user to sign in to view their personal data).
 
 * HCI Guidline Two (URL):
 * How you implemented it in your sketch:

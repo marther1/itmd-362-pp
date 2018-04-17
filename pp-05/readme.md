@@ -15,8 +15,8 @@ your own master usability checklist.
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1. http://drpete.co/?topic=25-point-website-usability-checklist
+2. https://stayintech.com/UX
 
 * Your own condensed, ten-item must-have usability checklist:
 
